@@ -1,2 +1,2 @@
-# matlab_for_control_systems
+# matlab
 matlab_step_by_step
